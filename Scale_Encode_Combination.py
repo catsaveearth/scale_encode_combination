@@ -11,7 +11,6 @@ def dummy_data(data, columns):
         data = data.drop(column, axis=1)
     return data
 
-
 # main function : this function make combination of numerical data scaling and categorical data encoding.
 # output : six type scaling & encoding dataset
 def scale_encode_combination(dataset, numerical_feature_list, categorical_feature_list):
