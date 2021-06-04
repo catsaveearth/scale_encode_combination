@@ -1,8 +1,13 @@
 # scale_encode_combination
 
 ## introduction
-It helps with scaling &amp; encoding of dataset. </br>
 This project belongs to Data science term project, Gachon Univ. ( 2021 spring semester )
+It helps with scaling &amp; encoding of dataset. </br>
+Scaler = "standard", "minmax", "robust", "maxabs", "normalize" </br>
+Encoder = "ordinal", "onehot" </br></br>
+
+Provides a total of 10 combinations of datasets</br>
+
 <br><br>
 
 ## Getting Started
